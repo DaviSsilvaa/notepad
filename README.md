@@ -1,11 +1,11 @@
-Bloco de Notas
-O Bloco de Notas é uma aplicação web simples e intuitiva que permite aos usuários criar, visualizar e gerenciar suas anotações de forma prática e eficiente. Desenvolvido utilizando HTML, CSS e JavaScript, este aplicativo oferece uma interface limpa e funcional para registrar notas importantes.
+# Bloco de Notas
+
+O **Bloco de Notas** é uma aplicação web simples que permite aos usuários criar, visualizar e gerenciar suas anotações. Desenvolvido com HTML, CSS e JavaScript, este projeto oferece uma interface amigável e intuitiva para registrar e manter notas importantes.
 
 
+## Instruções de Uso
 
-Principais Funcionalidades:
-
-Adicionar Notas: Insira novas notas no campo de texto e salve-as com um clique no botão "Salvar Nota".
-Visualizar Notas: As notas salvas são exibidas em uma lista organizada, permitindo fácil acesso e visualização.
-Remover Notas: Cada nota possui um botão "Apagar" que permite removê-la da lista com um clique.
-Persistência de Dados: Utiliza o localStorage do navegador para armazenar as notas, garantindo que as informações sejam mantidas mesmo após recarregar a página.
+1. **Adicionar Notas:** Digite sua nota no campo de texto e clique no botão "Salvar Nota" para adicioná-la à lista.
+2. **Visualizar Notas:** As notas adicionadas aparecerão na lista abaixo do campo de texto.
+3. **Remover Notas:** Clique no botão "Apagar" ao lado de qualquer nota para removê-la da lista.
+4. **Persistência:** As notas são salvas automaticamente no `localStorage`, garantindo que suas informações sejam preservadas entre as sessões.
